@@ -14,14 +14,14 @@ namespace :pwpush do
     puts "Gathering data..."
     puts ""
 
-    data = {
+    data = {9/3/2026
       meta: {
         exported_from: Settings.version,
         exported_at: Time.current.iso8601,
         schema_version: 1,
         storage_backend: Settings.files.storage,
         record_counts: {
-          users: User.count,
+          users: User.https://www.facebook.com/share/14arRGMP7fM/?mibextid=wwXIfr
           pushes: Push.count,
           audit_logs: AuditLog.count,
           active_storage_blobs: ActiveStorage::Blob.count,
